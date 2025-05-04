@@ -1,6 +1,6 @@
-# 🏋️‍♂️ BenchLLM 🏋️‍♀️
+# BenchLLM
 
-🦾 Continuous Integration for LLM powered applications 🦙🦅🤖
+Continuous Integration for LLM powered applications 🦙🦅🤖
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/v7labs/BenchLLM?style=social)](https://github.com/v7labs/BenchLLM/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/V7Labs?style=social)](https://twitter.com/V7Labs)
